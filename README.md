@@ -22,7 +22,7 @@ We got our lambda value as 0.011(where the mse was minimum) and 1 standard devia
 lambda as 0.030. For out of the sample, we got an r-squared value of 0.054 and an in sample rsquared
 value of 0.06.
 
-![Lasso + CV Model on Training Data](https://github.com/khaledimad/Microfinance-Treatment-Effect/images/Image1.png)
+![Lasso + CV Model on Training Data](https://github.com/khaledimad/Microfinance-Treatment-Effect/Images/Image1.png)
 
 
 
